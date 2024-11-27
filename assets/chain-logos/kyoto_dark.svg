@@ -1,0 +1,35 @@
+<svg id="Layer_2_copy_2" data-name="Layer 2 copy 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74.31 74.31">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <circle class="cls-3" cx="22.29" cy="22.14" r="7.4"/>
+      <circle class="cls-3" cx="22.29" cy="51.74" r="7.4"/>
+      <circle class="cls-2" cx="64.67" cy="22.14" r="7.4"/>
+      <circle class="cls-2" cx="64.67" cy="51.74" r="7.4"/>
+      <circle class="cls-2" cx="7.4" cy="22.14" r="7.4"/>
+      <circle class="cls-2" cx="7.4" cy="51.74" r="7.4"/>
+      <circle class="cls-3" cx="34.99" cy="36.94" r="7.4"/>
+      <circle class="cls-3" cx="49.79" cy="22.14" r="7.4"/>
+      <circle class="cls-2" cx="22.29" cy="7.4" r="7.4"/>
+      <circle class="cls-2" cx="49.79" cy="7.4" r="7.4"/>
+      <circle class="cls-2" cx="22.29" cy="66.9" r="7.4"/>
+      <circle class="cls-2" cx="49.79" cy="66.91" r="7.4"/>
+      <path class="cls-3" d="m42.39,22.14c0,4.09-3.31,7.4-7.4,7.4v14.8c4.09,0,7.4,3.31,7.4,7.4l7.4-7.4c-4.09,0-7.4-3.31-7.4-7.4s3.31-7.4,7.4-7.4l-7.4-7.4Z"/>
+      <circle class="cls-3" cx="49.79" cy="51.74" r="7.4"/>
+    </g>
+  </g>
+</svg>
